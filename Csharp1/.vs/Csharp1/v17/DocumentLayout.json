@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aybar\\source\\repos\\Csharp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D0C396B-C37E-4D2A-887C-6948815C472C}|2.ders\\2.ders.csproj|c:\\users\\aybar\\source\\repos\\csharp1\\2.ders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D0C396B-C37E-4D2A-887C-6948815C472C}|2.ders\\2.ders.csproj|solutionrelative:2.ders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70752AFB-30F3-4CFA-B2A7-978C5FD682D8}|CSharp1\\CSharp1.csproj|c:\\users\\aybar\\source\\repos\\csharp1\\csharp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70752AFB-30F3-4CFA-B2A7-978C5FD682D8}|CSharp1\\CSharp1.csproj|solutionrelative:csharp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aybar\\source\\repos\\Csharp1\\2.ders\\Program.cs",
+              "RelativeDocumentMoniker": "2.ders\\Program.cs",
+              "ToolTip": "C:\\Users\\aybar\\source\\repos\\Csharp1\\2.ders\\Program.cs",
+              "RelativeToolTip": "2.ders\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T20:27:31.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aybar\\source\\repos\\Csharp1\\CSharp1\\Program.cs",
+              "RelativeDocumentMoniker": "CSharp1\\Program.cs",
+              "ToolTip": "C:\\Users\\aybar\\source\\repos\\Csharp1\\CSharp1\\Program.cs",
+              "RelativeToolTip": "CSharp1\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwHAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:26:05.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
